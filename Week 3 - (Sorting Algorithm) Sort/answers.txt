@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: Average sorting time is 8.3 Sec; It is the slowest sorting time.
+
+sort2 uses: Merge Sort
+
+How do you know?: Average sorting time is 1 Sec; It is also significantly faster than other sorts
+
+sort3 uses: Selection Sort
+
+How do you know?: Average sorting time is 3.7 Sec; It is fast than sort1, could be the occurances of best situation uplifted the the average sorting time
